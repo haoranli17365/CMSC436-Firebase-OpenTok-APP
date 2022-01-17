@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1050010685210-2fangk1p1oqq6m33t17m9piba5cic479.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1050010685210-2fangk1p1oqq6m33t17m9piba5cic479</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbgJZm1mdcXURWxNmT8MpyaYKDVaybdqI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1050010685210</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.maryland.cmsc436.spring2021.openTok</string>
+	<key>PROJECT_ID</key>
+	<string>assign5-3ac25</string>
+	<key>STORAGE_BUCKET</key>
+	<string>assign5-3ac25.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1050010685210:ios:bbc9549aafcfa592b566a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://assign5-3ac25-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
